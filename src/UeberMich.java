@@ -7,6 +7,7 @@ public class UeberMich {
         String lastName = "Tiziani";
         String birthday = "15.11.1993";
         double grades = 3.4;
+        int a = 4;
 
     }
 }
